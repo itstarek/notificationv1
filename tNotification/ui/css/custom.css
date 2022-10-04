@@ -1,0 +1,36 @@
+/* PUT YOUR CUSTOM CSS OVERRIDES HERE */
+/* Eagle à copié mdr */
+.notification-title
+{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.bulletin-notification {
+  margin-bottom: 5px;
+    color: #fff;
+    border-left: 2px solid  #7700ff;
+    position: absolute;
+    left: 2px;
+    flex-grow: 1;
+}
+
+.notification-icon {
+    margin-top: 10px;
+    width: 25px;
+    height: 25px;
+  }
+
+  .bulletin-notification-container {
+    position: absolute;
+    width: 13.5vw;
+    margin-left: 3px;
+    margin-top: 5px;
+    z-index: 10000;
+  }
+  
+
+  .notification-title {
+    font-size: 15px;
+    left: 10px
+  }
